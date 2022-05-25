@@ -1,0 +1,5 @@
+APPLE --> 1
+CORN --> 2
+GRAPE --> 3
+POTATO --> 4
+TOMATO --> 5
