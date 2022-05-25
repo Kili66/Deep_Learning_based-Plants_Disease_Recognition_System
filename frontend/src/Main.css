@@ -1,0 +1,12 @@
+.title{
+    
+    padding: 50px;
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+
+}
+.container {
+    background-image: url("bg.png");
+    color: aliceblue;
+}
